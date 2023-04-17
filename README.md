@@ -16,7 +16,6 @@ Ferramenta open-source utilizada para automação mobile em aplicativos Android 
 **Para executar o código deve-se**
 
 - Utilizar algum editor de texto de sua preferencia, por exp:(Visual Studio Code, Sublime, ...)
-- Utilizar algum editor de texto de sua preferencia, por exp:(Visual Studio Code, Sublime, ...)
 - Instalar o Python
 - Instalar o Robot framework
  	pip install robotframework
